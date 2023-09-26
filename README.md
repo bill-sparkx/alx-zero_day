@@ -1,1 +1,2 @@
-My second readme
+Hello my name is Bernard Bill 
+im very excited 
